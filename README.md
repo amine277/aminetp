@@ -1,3 +1,2 @@
 # aminetp
-PREMIER ESSAI
-deux essai
+exercice tp 
